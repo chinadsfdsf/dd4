@@ -104,34 +104,34 @@ custom_css = ["css/custom.css"]
 
     # footer
     [params.footer]
-        copyright = "Themefisher Team"
-        copyrightURL = "http://www.themefisher.com"
+        copyright = "The China Democratic Salvation Front Team"
+        copyrightURL = "http://www.chinadsf.org"
 
         # social Icons
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-facebook"
-        url = "#"
+        url = "https://www.facebook.com/mzjgzx"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-twitter"
-        url = "#"
+        url = "https://twitter.com/mzjgzx"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-google-outline"
-        url = "#"
+        url = "mailto:minzhujiuguozhenxian@gmail.com"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-youtube"
-        url = "#"
+        url = "https://www.youtube.com/channel/UCeBfK3zzgqDQLhBovmguOuQ"
 
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-linkedin"
-        url = "#"
+        #[[params.footer.socialIcon]]
+        #icon = "tf-ion-social-linkedin"
+        #url = "#"
 
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-dribbble-outline"
-        url = "#"
+        #[[params.footer.socialIcon]]
+        #icon = "tf-ion-social-dribbble-outline"
+        #url = "#"
 
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-pinterest-outline"
-        url = "#"
+        #[[params.footer.socialIcon]]
+        #icon = "tf-ion-social-pinterest-outline"
+        #url = "#"
