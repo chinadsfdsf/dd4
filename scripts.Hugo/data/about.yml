@@ -1,0 +1,15 @@
+enable : true
+heading : About
+headingSpan : Us
+aboutItem : 
+- icon : tf-tools
+  title : The Name
+  content : The China Democratic Salvation Front
+
+- icon : tf-strategy
+  title : The Founders
+  content : This organization was founded on December, 12, 2017 by Mr. Baiqiao Tang with other chinese dissidents.
+
+- icon : tf-anchor2
+  title : The Goal
+  content : The purpose of this organization is to promote the democratic revolution in China in order to end the CCP tyrannic regi me as early as possible
