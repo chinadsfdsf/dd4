@@ -50,7 +50,8 @@ summaryLength = 10
 # Site params
 [params]
 home= "Home"
-logo = "images/logo.png"
+#logo = "images/logo.png"
+logo = "/logoMzjgzx01.jpg"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
 description = "The China Democratic Salvation Front(English Version01)"
@@ -62,7 +63,9 @@ custom_css = ["css/custom.css"]
     # Banner Section
     [params.banner]
     enable = true
-    bgImage = "images/slider/hero-area.jpg"
+    #bgImage = "images/slider/hero-area.jpg"
+    #bgImage = "/mzjgzx_1500x500.jpg"
+    bgImage = "/mzjgzx_1900x1000.jpg"
     icon = "tf-ion-play"
     heading = "The China Democratic Salvation Front(English Version02)"
     content= "The China Democratic Salvation Front, was founded on December, 12, 2017 by Mr. Baiqiao Tang with other chinese dissidents.  The purpose of this organization is to promote the democratic revolution in China in order to end the CCP tyrannic regi me as early as possible."
